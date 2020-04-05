@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="bg-landing">
-      <h2 class="h2-landing">Site temporaire. <br> Retrouvez-nous sur <a target="_blank" href="https://www.facebook.com/eglise1236"><span>Facebook</span></a>.</h2>
+      <h2 class="h2-landing">Nouveau site en construction.<br>Retrouvez-nous sur <a target="_blank" href="https://www.facebook.com/eglise1236"><span>Facebook</span></a>.</h2>
       <h2 class="h2-landing">
         Vous pouvez aussi donner sur <a target="_blank" href="https://www.paypal.me/saintescene"><span>PayPal</span></a>.
       </h2>
